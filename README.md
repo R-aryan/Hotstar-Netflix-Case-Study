@@ -3,7 +3,7 @@ A real world case study based on a digital media company (similar to Voot, Hotst
 
 ### Required Installations 
 
-This project requires **Python 2.7 or above for the purpose** and the following Python libraries installed:
+This project requires **Python 3.0 or above for the purpose** and the following Python libraries installed:
 
 - [For Python Latest version Checkout this Link](https://www.python.org/downloads/)
 - [NumPy](http://www.numpy.org/)
